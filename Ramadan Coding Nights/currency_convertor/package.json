@@ -1,0 +1,20 @@
+{
+  "name": "the_currency_convertor_by_tubajan",
+  "version": "1.0.2",
+  "description": "This currency convertor app is use to convert your amount into your desired currency.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TUBA JAN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
